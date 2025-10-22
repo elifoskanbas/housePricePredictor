@@ -4,7 +4,7 @@ This project predicts the price of a house based on its size, number of rooms, l
 
 ---
 
-## 📋 Dataset
+##  Dataset
 
 - Source: Kaggle “House Prices” datasets
 - Columns:
@@ -27,7 +27,7 @@ This project predicts the price of a house based on its size, number of rooms, l
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Pandas
@@ -37,7 +37,7 @@ This project predicts the price of a house based on its size, number of rooms, l
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
 
